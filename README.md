@@ -14,8 +14,14 @@ I love using **Python** for :
  * ✨and much more. ✨
 
 *Connect with me :*
-<a href=”www.linkedin.com/in/samir-kanine">
-  <img align=”left” src=”https://raw.githubusercontent.com/samir-kanine/skanine-portfolio/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<p>
+  <a href=”www.linkedin.com/in/samir-kanine">
+    <img src="https://www.linkedin.com/?trk=nav_logo"
+          title="LinkedIn"
+          alt="LinkedIn logo"
+          width="50" height="20">
+  </a>
+</p>
 
 
 ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
