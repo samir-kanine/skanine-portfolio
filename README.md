@@ -18,7 +18,7 @@ I love using **Python** for :
 <p>
   <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOKB2xbcqTwu4nZ0ISkuBgA%3D%3D"
           title="LinkedIn"
-          alt="LinkedIn logo"
+<!--           alt="LinkedIn logo" -->
           width="30" height="20">
   <a href="www.linkedin.com/in/samir-kanine">LinkedIn</a>
 </p>
