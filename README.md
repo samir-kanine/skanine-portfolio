@@ -13,7 +13,7 @@ I love using **Python** for :
  * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
  * ✨and much more. ✨
 
-**Connect with me :
+*Connect with me :
 
 
 ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
