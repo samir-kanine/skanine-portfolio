@@ -15,13 +15,10 @@ I love using **Python** for :
 
 *Connect with me :*
 <p>
-  <a href=”www.linkedin.com/in/samir-kanine">
-    <img src="https://www.linkedin.com/?trk=nav_logo"
-          title="LinkedIn"
-          alt="LinkedIn logo"
-          width="50" height="20">
-  </a>
+  
 </p>
 
-
-![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+*Technologies* that I use daily :
+<p>
+  ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+</p>
