@@ -15,12 +15,7 @@ I love using **Python** for :
 
 *Connect with me :
 
-<p>
-  <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOKB2xbcqTwu4nZ0ISkuBgA%3D%3D"
-          title="LinkedIn"
-<!--           alt="LinkedIn logo" -->
-          width="30" height="20">
-  <a href="www.linkedin.com/in/samir-kanine">LinkedIn</a>
-</p>
+![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOKB2xbcqTwu4nZ0ISkuBgA%3D%3D)
+         
 
 ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
