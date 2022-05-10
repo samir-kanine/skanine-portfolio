@@ -15,6 +15,6 @@ I love using **Python** for :
 
 *Connect with me :
 
-![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8I50k8%2FJQkqYBq2sjaiFCA%3D%3D)
+![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOKB2xbcqTwu4nZ0ISkuBgA%3D%3D)
 
 ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
