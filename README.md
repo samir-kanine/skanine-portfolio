@@ -13,7 +13,7 @@ I love using **Python** for :
  * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
  * ✨and much more. ✨
 
-*Connect with me :
+#Connect with me :
 
 ![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BOKB2xbcqTwu4nZ0ISkuBgA%3D%3D)
          
