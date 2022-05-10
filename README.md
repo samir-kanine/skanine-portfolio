@@ -12,7 +12,8 @@ I love using **Python** for :
  * **Data Science** using _**numpy**_, _**pandas**_ and _**matplotlib**_.
  * Building **web applications** with _**Flask**_ and _**Django**_ frameworks, plus _**HTML5**_, _**CSS3**_ and _**Javascript**_.
  * ✨and much more. ✨
- * 
-![Bage](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 *Connect with me :
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+![Bage](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
