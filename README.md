@@ -20,5 +20,9 @@ I love using **Python** for :
 
 *Technologies* that I use daily :
 <p>
-  ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!--   ![Badge](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+          title="React"
+          alt="React logo"
+          width="50" height="20">
 </p>
